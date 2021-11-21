@@ -8,6 +8,6 @@ eureka:
     hostname: localhost
 microservice:    
   payment-services:
-     endpoints:
-        endpoint:
-           uri: http://PAYMENT-SERVICES/payment-provider/paynow/
+    endpoints:
+      endpoint:
+        uri: http://PAYMENT-SERVICES/payment-provider/paynow/
