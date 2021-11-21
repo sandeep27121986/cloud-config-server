@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
 microservice:    
-  payment-services:
+  SHOPPING-SERVICES:
     endpoints:
       endpoint:
         uri: http://PAYMENT-SERVICES/payment-provider/paynow
