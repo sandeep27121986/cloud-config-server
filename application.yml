@@ -10,4 +10,4 @@ microservice:
   SHOPPING-SERVICES:
     endpoints:
       endpoint:
-        uri: http://PAYMENT-SERVICES/payment-provider/paynow
+        uri: http://PAYMENT-SERVICES/payment-provider/paynow/
